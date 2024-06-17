@@ -44,6 +44,4 @@ To access Pakistan proxy servers, rely on reputable providers. After registratio
 ## Best Free Proxy Sites for Pakistan
 Explore advanced online proxy services like Croxy Proxy, Plain Proxies, Yuyu Proxy, Blockaway, and Proxyium for secure and unrestricted browsing.
 
-...
-
 For a comprehensive list of free proxy servers for Pakistan, visit: https://www.okeyproxy.com/proxy/category/proxies/free-web-proxy/
