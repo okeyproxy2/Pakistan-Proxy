@@ -37,9 +37,12 @@ To access Pakistan proxy servers, rely on reputable providers. After registratio
 ![image](https://github.com/okeyproxy2/Pakistan-Proxy/assets/155126786/d11787ea-83d3-4c1d-b120-e0e7f80b2570)
 
 ## Top Pakistan Proxy Servers
-1. [OkeyProxy](https://www.okeyproxy.com/en/residential-proxies): Offering a vast array of Pakistani IP addresses, OkeyProxy provides high accessibility and coverage with its extensive global IP pool. You can get premium Pakistan [proxy free trial](https://www.okeyproxy.com/proxy/?link=b63b57) now!
-2. IPRoyal: With varied proxy types and extensive IP pools, IPRoyal offers granular control over proxy parameters.
-3. Bright Data: Known for its extensive residential IP inventory and comprehensive proxy management tools, Bright Data is a premium choice.
+1. [**OkeyProxy**](https://www.okeyproxy.com/en/residential-proxies): Offering a vast array of Pakistani IP addresses, OkeyProxy provides high accessibility and coverage with its extensive global IP pool. You can get premium Pakistan [**proxy free trial**](https://www.okeyproxy.com/proxy/?link=b63b57) now!
+
+![EN banner](https://github.com/okeyproxy2/Pakistan-Proxy/assets/155126786/a250f8b1-0d19-4b40-a319-1ae868891952)
+
+3. IPRoyal: With varied proxy types and extensive IP pools, IPRoyal offers granular control over proxy parameters.
+4. Bright Data: Known for its extensive residential IP inventory and comprehensive proxy management tools, Bright Data is a premium choice.
 
 ## Best Free Proxy Sites for Pakistan
 Explore advanced online proxy services like Croxy Proxy, Plain Proxies, Yuyu Proxy, Blockaway, and Proxyium for secure and unrestricted browsing.
